@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityaanil06@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
