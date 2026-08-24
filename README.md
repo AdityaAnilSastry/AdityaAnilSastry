@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdityaAnilSastry
-- 👀 I’m interested in Cyber Security And Web Development
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Security And AI/ML
+- 🌱 I’m currently learning about AI/ML Application
 - 📫 How to reach me adityaanil06@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Portfolio Website: https://adityaanilsastry.github.io/Portfolio
